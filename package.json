@@ -1,0 +1,31 @@
+
+{
+  "name": "bbtcguai",
+  "version": "1.0.0",
+  "description": "A simple Bitcoin wallet address generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tastygeek/BBTCguai.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "wallet",
+    "address",
+    "generator",
+    "cryptocurrency"
+  ],
+  "author": "Tastygeek <your-email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tastygeek/BBTCguai/issues"
+  },
+  "homepage": "https://github.com/Tastygeek/BBTCguai#readme",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "elliptic": "^6.5.4"
+  }
+}
